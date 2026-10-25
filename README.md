@@ -10,7 +10,7 @@ To analyze ecommerce sales performance and transform raw data into meaningful in
 
 ## 📸 Dashboard Preview
 
-[Flipkart Ecommerce Analytics Dashboard] 
+![Flipkart Ecommerce Analytics Dashboard](./flipkart%20dashboard%20image.png) 
 
 ## 📊 Dashboard Highlights
 
